@@ -16,5 +16,7 @@ Slack, Dylan, Sophie Hilgard, Emily Jia, Sameer Singh, and Himabindu Lakkaraju. 
 https://christophm.github.io/interpretable-ml-book/
 
 **Software**
+
 https://github.com/marcotcr/lime
+
 https://github.com/shap
