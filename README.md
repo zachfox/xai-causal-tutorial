@@ -1,5 +1,7 @@
 ## Explainability and Causal AI 
-Notebooks for our AISD summer school tutorial on Explainability and Causal AI. 
+AISD summer school tutorial on Explainability and Causal AI
+
+**Authors**: Zachary Fox and Ayana Ghosh
 
 ### Resources 
 
@@ -11,9 +13,13 @@ Alvarez-Melis, David, and Tommi S. Jaakkola. “On the robustness of interpretab
 
 Slack, Dylan, Sophie Hilgard, Emily Jia, Sameer Singh, and Himabindu Lakkaraju. “Fooling lime and shap: Adversarial attacks on post hoc explanation methods.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, pp. 180-186 (2020).
 
+
+
 **Free book**
 
 https://christophm.github.io/interpretable-ml-book/
+
+https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python
 
 **Software**
 
